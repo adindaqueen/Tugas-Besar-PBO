@@ -1,8 +1,6 @@
 package src;
 // Kelas abstrak sebagai induk semua produk BiwwBeads
 
-import src.StokOperasi;
-
 public abstract class Produk implements StokOperasi {
     protected String kodeProduk;
     protected String namaProduk;

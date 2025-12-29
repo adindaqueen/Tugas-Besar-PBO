@@ -20,12 +20,12 @@ public class BiwwBeadsApp {
     
     // HEADER & MENU AWAL (SEBELUM LOGIN)
     public static void printHeader() {
-        System.out.println("╔══════════════════════════════════════════════════╗");
-        System.out.println("║            BIWWBEADS  MANAGEMENT SYSTEM          ║");
-        System.out.println("║           Stok  -  Penjualan  -  Laporan         ║");
-        System.out.println("╚══════════════════════════════════════════════════╝");
-        System.out.println();
-    }
+    System.out.println("==============================================");
+    System.out.println("         BIWWBEADS MANAGEMENT SYSTEM          ");
+    System.out.println("        Stok - Penjualan - Laporan            ");
+    System.out.println("==============================================");
+    System.out.println();
+}
 
     // Menu awal sebelum user masuk ke menu utama.
     private static void printAuthMenu() {
