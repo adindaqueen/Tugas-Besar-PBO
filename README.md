@@ -27,9 +27,9 @@ BiwwBeads Management System adalah aplikasi berbasis Java Console (CLI) yang dir
 
 ## Prasyarat Sistem
 
-1.  **Java Development Kit (JDK)** versi 8 atau yang lebih baru.
+1.  **Java Development Kit (JDK)** 
 2.  **MySQL Server**.
-3.  **MySQL Connector/J** (proyek ini dikonfigurasi menggunakan versi 9.5.0).
+3.  **MySQL Connector/J** 
 
 ## Konfigurasi Database
 
@@ -55,7 +55,7 @@ BiwwBeads Management System adalah aplikasi berbasis Java Console (CLI) yang dir
 Setelah login berhasil, pilih menu dengan memasukkan angka:
 1.  **Tambah Produk**: Masukkan kode, nama, kategori, warna, harga, dan stok awal.
 2.  **Lihat Semua Produk**: Menampilkan daftar produk yang tersimpan di database.
-3.  **Update Stok Produk**: Masukkan kode produk dan jumlah stok yang ingin diubah (gunakan angka negatif untuk pengurangan).
+3.  **Update Stok Produk**: Masukkan kode produk dan jumlah stok yang ingin diubah.
 4.  **Hapus Produk**: Masukkan kode produk untuk menghapus data secara permanen.
 5.  **Buat Transaksi Penjualan**: Masukkan kode produk dan jumlah beli. Masukkan `0` untuk menyelesaikan transaksi dan melihat ringkasan.
 
