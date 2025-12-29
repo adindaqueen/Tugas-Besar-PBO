@@ -1,3 +1,4 @@
+package src;
 // Kelas untuk menyimpan data pengguna sistem (admin / kasir)
 public class User {
     private String username;

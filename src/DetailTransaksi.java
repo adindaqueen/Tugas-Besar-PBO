@@ -1,4 +1,6 @@
+package src;
 // Menyimpan satu baris item dalam transaksi penjualan
+
 public class DetailTransaksi {
     private Produk produk;
     private int jumlahBeli;

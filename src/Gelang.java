@@ -1,4 +1,6 @@
+package src;
 // Subclass produk untuk kategori Gelang
+
 public class Gelang extends Produk {
 
     public Gelang(String kodeProduk, String namaProduk,

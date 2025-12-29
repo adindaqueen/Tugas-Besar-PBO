@@ -1,4 +1,6 @@
+package src;
 // Subclass produk untuk kategori Kalung
+
 public class Kalung extends Produk {
 
     public Kalung(String kodeProduk, String namaProduk,

@@ -1,4 +1,8 @@
+package src;
 // Kelas abstrak sebagai induk semua produk BiwwBeads
+
+import src.StokOperasi;
+
 public abstract class Produk implements StokOperasi {
     protected String kodeProduk;
     protected String namaProduk;
@@ -39,6 +43,7 @@ public abstract class Produk implements StokOperasi {
 
     @Override
     public String toString() {
-        return kodeProduk + " - " + namaProduk + " [" + kategori + "] " + "Warna: " + warna + ", Harga: " + harga + ", Stok: " + stok;
+        return kodeProduk + " - " + namaProduk + " [" + kategori + "] " + "Warna: " 
+        + warna + ", Harga: " + harga + ", Stok: " + stok;
     }
 }

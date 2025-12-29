@@ -1,3 +1,4 @@
+package src;
 //Interface operasi stok produk
 public interface StokOperasi {
     void tambahStok(int jumlah);
