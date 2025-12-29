@@ -1,3 +1,4 @@
+#Tugas Besar Pemrograman Berorientasi Objek 
 # BiwwBeads Management System
 
 BiwwBeads Management System adalah aplikasi berbasis Java Console (CLI) yang dirancang untuk mengelola inventaris stok, penjualan, dan laporan produk manik-manik (beads). Aplikasi ini mendukung integrasi database MySQL untuk penyimpanan data produk yang persisten.
