@@ -1,4 +1,4 @@
-#Tugas Besar Pemrograman Berorientasi Objek 
+# Tugas Besar Pemrograman Berorientasi Objek
 # BiwwBeads Management System
 
 BiwwBeads Management System adalah aplikasi berbasis Java Console (CLI) yang dirancang untuk mengelola inventaris stok, penjualan, dan laporan produk manik-manik (beads). Aplikasi ini mendukung integrasi database MySQL untuk penyimpanan data produk yang persisten.
@@ -58,3 +58,8 @@ Setelah login berhasil, pilih menu dengan memasukkan angka:
 3.  **Update Stok Produk**: Masukkan kode produk dan jumlah stok yang ingin diubah (gunakan angka negatif untuk pengurangan).
 4.  **Hapus Produk**: Masukkan kode produk untuk menghapus data secara permanen.
 5.  **Buat Transaksi Penjualan**: Masukkan kode produk dan jumlah beli. Masukkan `0` untuk menyelesaikan transaksi dan melihat ringkasan.
+
+## Identitas
+**Nama** : Adinda Queen Salsabilla
+**NIM**  : 2411522008
+**Kelas**: A-Pemrograman Berorientasi Objek
